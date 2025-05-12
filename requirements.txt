@@ -9,7 +9,7 @@ cycler==0.10.0
 decorator==5.2.1
 defusedxml==0.6.0
 entrypoints==0.4
-idna==3.7
+idna==3.10
 importlib-metadata==8.7.0
 ipykernel==5.1.4
 ipython==8.10.0
