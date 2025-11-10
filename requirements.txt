@@ -57,7 +57,7 @@ requests==2.32.5
 scikit-learn==1.5.0
 scipy==1.16.2
 seaborn==0.13.2
-Send2Trash==1.5.0
+Send2Trash==1.8.3
 six==1.17.0
 terminado==0.8.3
 testpath==0.6.0
