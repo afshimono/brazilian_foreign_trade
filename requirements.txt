@@ -42,7 +42,7 @@ pandocfilters==1.5.1
 parso==0.8.5
 pexpect==4.9.0
 pickleshare==0.7.5
-prometheus-client==0.7.1
+prometheus-client==0.23.1
 prompt-toolkit==3.0.50
 ptyprocess==0.7.0
 Pygments==2.19.2
