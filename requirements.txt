@@ -22,7 +22,7 @@ jsonschema==4.25.1
 jupyter==1.1.1
 jupyter-client==5.3.4
 jupyter-console==6.6.3
-jupyter-contrib-core==0.3.3
+jupyter-contrib-core==0.4.2
 jupyter-contrib-nbextensions==0.7.0
 jupyter-core==4.11.2
 jupyter-highlight-selected-word==0.2.0
