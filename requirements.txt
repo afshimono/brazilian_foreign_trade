@@ -52,7 +52,7 @@ python-dateutil==2.9.0.post0
 pytz==2025.2
 PyYAML==6.0.3
 pyzmq==27.1.0
-qtconsole==5.7.1
+qtconsole==5.7.2
 requests==2.33.0
 scikit-learn==1.8.0
 scipy==1.17.1
