@@ -2,7 +2,7 @@ appnope==0.1.4
 attrs==26.1.0
 backcall==0.2.0
 bleach>=6.3.0
-certifi==2026.2.25
+certifi==2026.4.22
 chardet==5.2.0
 colorama==0.4.6
 cycler==0.12.1
