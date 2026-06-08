@@ -35,7 +35,7 @@ matplotlib==3.10.9
 mistune==3.2.1
 nbconvert==7.17.1
 nbformat==5.10.4
-notebook==7.5.6
+notebook==7.5.7
 numpy==2.4.6
 pandas==3.0.3
 pandocfilters==1.5.1
