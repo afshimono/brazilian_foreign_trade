@@ -1,4 +1,4 @@
-appnope==0.1.4
+appnope==1.0.0
 attrs==26.1.0
 backcall==0.2.0
 bleach>=6.4.0
